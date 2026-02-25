@@ -1,0 +1,6 @@
+# Two-Phase Android Automation Framework
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.8
+Pillow>=10.0
+numpy>=1.24

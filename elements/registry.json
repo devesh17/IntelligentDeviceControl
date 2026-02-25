@@ -1,0 +1,35 @@
+{
+  "Wireless debugging": {
+    "image": "elements\\wireless_debugging.png",
+    "center_x": 929,
+    "center_y": 1289,
+    "bounds": {
+      "x1": 852,
+      "y1": 1210,
+      "x2": 1006,
+      "y2": 1368
+    }
+  },
+  "Conditional_Click_act": {
+    "image": "elements\\conditional_click_act_cd38955c.png",
+    "center_x": 555,
+    "center_y": 1308,
+    "bounds": {
+      "x1": 81,
+      "y1": 1196,
+      "x2": 1030,
+      "y2": 1420
+    }
+  },
+  "Conditional Click_act": {
+    "image": "elements\\conditional_click_act_a5bd99c9.png",
+    "center_x": 950,
+    "center_y": 1819,
+    "bounds": {
+      "x1": 858,
+      "y1": 1719,
+      "x2": 1043,
+      "y2": 1920
+    }
+  }
+}
